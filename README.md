@@ -1,6 +1,6 @@
 # 🤖 AI Voice Assistant (Web UI)
 
-A voice-based AI assistant built with **Streamlit**, **LangChain**, and **Ollama LLMs**.  
+A voice-based AI assistant built with **Streamlit**, **LangChain**, and **Ollama LLMs**
 Speak to the assistant, get AI responses, and have it speak back to you in real-time.
 
 ---
