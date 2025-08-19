@@ -48,8 +48,7 @@ Open your browser at **http://localhost:8501** to interact with your AI assistan
 ---
 
 ## 🖼️ Demo
-![Demo Screenshot](demo.png)  
-*(Add a screenshot or GIF showing your app in action)*
+<img width="1361" height="625" alt="Image" src="https://github.com/user-attachments/assets/e20fc657-6ca8-4274-b829-b4329431bc4f" />
 
 ---
 
