@@ -1,1 +1,7 @@
-requirements added here 
+streamlit
+speechrecognition
+pyttsx3
+langchain-community
+langchain-core
+langchain-ollama
+pyaudio  # may require system-level installation
